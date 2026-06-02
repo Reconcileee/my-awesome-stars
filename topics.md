@@ -650,6 +650,7 @@
 
 ## others 
 
+- [Reconcileee/my-awesome-stars](https://github.com/Reconcileee/my-awesome-stars) - A list of my Github stars!
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
 - [xiaomi-fonts/MiSans](https://github.com/xiaomi-fonts/MiSans) - MiSans fonts
 - [Fennmoo/wanbriefing](https://github.com/Fennmoo/wanbriefing) - 
