@@ -91,6 +91,7 @@
 
 ## Others 
 
+- [Reconcileee/my-awesome-stars](https://github.com/Reconcileee/my-awesome-stars) - A list of my Github stars!
 - [xiaomi-fonts/MiSans](https://github.com/xiaomi-fonts/MiSans) - MiSans fonts
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
