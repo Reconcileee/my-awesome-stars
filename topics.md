@@ -650,6 +650,9 @@
 
 ## others 
 
+- [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
+- [malinkang/weread2notion](https://github.com/malinkang/weread2notion) - 将微信读书划线同步到Notion
+- [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) - 
 - [Reconcileee/my-awesome-stars](https://github.com/Reconcileee/my-awesome-stars) - A list of my Github stars!
 - [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang) - The programming language for agents
 - [xiaomi-fonts/MiSans](https://github.com/xiaomi-fonts/MiSans) - MiSans fonts
