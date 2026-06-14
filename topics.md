@@ -347,6 +347,7 @@
 
 ## css 
 
+- [Zettersten/skills](https://github.com/Zettersten/skills) - Liquid Glass CSS/SVG skill for AI agents — Apple iOS 26 refraction effect
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -492,6 +493,7 @@
 
 ## ios 
 
+- [nikdelvin/liquid-glass](https://github.com/nikdelvin/liquid-glass) - 🫧 Pixel-perfect recreation of Apple's iOS 26 Liquid Glass effect using only CSS and SVG filters. Includes LiquidGlass containers, LiquidText, and LiquidButton components.
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
@@ -652,6 +654,7 @@
 
 ## others 
 
+- [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
 - [JefferyHcool/BiliNote](https://github.com/JefferyHcool/BiliNote) - AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) - Official Notion MCP Server
