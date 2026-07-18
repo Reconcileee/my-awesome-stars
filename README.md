@@ -54,7 +54,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 ## HTML 
@@ -171,7 +171,7 @@
 
 - [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens) - Ranked list of awesome digital gardens / second brains
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
