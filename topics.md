@@ -694,6 +694,7 @@
 
 ## others 
 
+- [marklove5102/huijia](https://github.com/marklove5102/huijia) - 回家的路
 - [Jacquesqwq/LiquidGlassShader](https://github.com/Jacquesqwq/LiquidGlassShader) - dogshit liquid glass shader implementation for legacy Minecraft/OpenGL
 - [XBuilderLAB/cheat-on-money](https://github.com/XBuilderLAB/cheat-on-money) - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环
 - [Nevodev/applemusic-like-lyrics](https://github.com/Nevodev/applemusic-like-lyrics) - A lyric player component library aims to look similar to iPad version of Apple Music. Also with DOM, React and Vue bindings. 一个基于 Web 技术制作的类 Apple Music 歌词显示组件库，同时支持 DOM 原生、React 和 Vue 绑定。
