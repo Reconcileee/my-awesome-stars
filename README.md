@@ -105,6 +105,7 @@
 
 ## Others 
 
+- [marklove5102/huijia](https://github.com/marklove5102/huijia) - 回家的路
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 - [Reconcileee/my-awesome-stars](https://github.com/Reconcileee/my-awesome-stars) - A list of my Github stars!
 - [xiaomi-fonts/MiSans](https://github.com/xiaomi-fonts/MiSans) - MiSans fonts
