@@ -61,7 +61,7 @@
 
 - [lucasromerodb/liquid-glass-effect-macos](https://github.com/lucasromerodb/liquid-glass-effect-macos) - Demo here
 - [archisvaze/liquid-glass](https://github.com/archisvaze/liquid-glass) - An interactive demo of an iOS 26 style Liquid Glass effect for the web
-- [Zettersten/skills](https://github.com/Zettersten/skills) - Liquid Glass CSS/SVG skill for AI agents — Apple iOS 26 refraction effect
+- [Zettersten/skills](https://github.com/Zettersten/skills) - AI Skills to enhance working AI harnesses such as Claude Code and Codex
 - [Fennmoo/wanbriefing](https://github.com/Fennmoo/wanbriefing) - 
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
