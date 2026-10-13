@@ -74,6 +74,7 @@
 
 ## JavaScript 
 
+- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) - 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there,
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [XBuilderLAB/cheat-on-money](https://github.com/XBuilderLAB/cheat-on-money) - AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
