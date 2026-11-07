@@ -141,6 +141,7 @@
 - [ui](#ui)
 - [virtual-reality](#virtual-reality)
 - [visualization](#visualization)
+- [vscode](#vscode)
 - [vue](#vue)
 - [web](#web)
 - [windows](#windows)
@@ -934,6 +935,11 @@
 ## visualization 
 
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+
+## vscode 
+
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+- [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻  Vibe Coding 101｜Your First Course For AI Product Builders.
 
 ## vue 
 
