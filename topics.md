@@ -81,6 +81,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [laravel](#laravel)
 - [learn-to-code](#learn-to-code)
@@ -571,6 +572,11 @@
 ## jetpack-compose 
 
 - [Nevodev/Cresto](https://github.com/Nevodev/Cresto) - A modern Android to-do app built with Kotlin and Jetpack Compose.
+
+## knowledge-graph 
+
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 
 ## kotlin 
 
